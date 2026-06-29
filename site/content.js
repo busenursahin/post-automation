@@ -198,7 +198,7 @@ const CONTENT = [
   {
     "gun": 15,
     "kategori": "Vibe Coding",
-    "baslik": "Vibe Coding'de Olmazsa Olmaz 6 Araç",
+    "baslik": "Vibe Coding'de Olmazsa Olmaz 3 Araç",
     "caption": "Lovable, Cursor ve v0 — vibe coding yaparken işini gerçekten kolaylaştıran 3 araç bunlar. Her biri farklı bir ihtiyacı çözüyor, birini seçip bugün denemek yeterli. Vibe coding ekosistemindeki araçları ve kullanım örneklerini bu seride tek tek tanıtıyorum, takip et.",
     "postSlides": [
       "../images/posts/gun-15-post-1.png",
@@ -296,7 +296,7 @@ const CONTENT = [
   {
     "gun": 22,
     "kategori": "AI Genel",
-    "baslik": "Günlük İşlerini AI'a Devretmenin 5 Adımı",
+    "baslik": "Günlük İşlerini AI'a Devretmenin 3 Adımı",
     "caption": "Tekrar eden 3 günlük işini listele, birini net bir şablonla AI'a devret, sonucu kontrol et — günlük işlerini AI'a devretmenin en pratik yolu bu. Bir hafta aynı şablonla denemek yeterli. Yapay zeka ile verimlilik üzerine her gün böyle uygulanabilir adımlar paylaşıyorum, takip et.",
     "postSlides": [
       "../images/posts/gun-22-post-1.png",
@@ -324,7 +324,7 @@ const CONTENT = [
   {
     "gun": 24,
     "kategori": "AI Genel",
-    "baslik": "Her Gün Kullandığım 8 AI Aracı",
+    "baslik": "Her Gün Kullandığım 3 AI Aracı",
     "caption": "NotebookLM, Granola ve Claude — her gün işimde gerçekten kullandığım 3 AI aracı bunlar. Her biri farklı bir işi çözüyor, hepsini aynı anda kullanmana gerek yok. Günlük hayatta kullandığım AI araçlarını ve onları nasıl kullandığımı bu seride tek tek paylaşıyorum, takip et.",
     "postSlides": [
       "../images/posts/gun-24-post-1.png",
