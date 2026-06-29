@@ -2,8 +2,8 @@ const CONTENT = [
   {
     "gun": 1,
     "kategori": "Claude Code",
-    "baslik": "Claude Code Nedir, Neden Herkes Bahsediyor?",
-    "caption": "Claude Code terminalde çalışan bir AI kodlama asistanı, dosya okuyup proje genelinde değişiklik yapabiliyor. #ClaudeCode #VibeCoding #YapayZeka #Yazılım #AI",
+    "baslik": "Claude Code İçin Bilmen Gereken 7 Komut",
+    "caption": "/init, /clear ve Shift+Tab plan modu — Claude Code'da işini kolaylaştıran 3 komut. #ClaudeCode #Yazılım #AI #Komutlar #VibeCoding",
     "postSlides": [
       "../images/posts/gun-1-post-1.png",
       "../images/posts/gun-1-post-2.png",
@@ -58,8 +58,8 @@ const CONTENT = [
   {
     "gun": 5,
     "kategori": "Claude Code",
-    "baslik": "Claude Code İçin Bilmen Gereken 7 Komut",
-    "caption": "/init, /clear ve Shift+Tab plan modu — Claude Code'da işini kolaylaştıran 3 komut. #ClaudeCode #Yazılım #AI #Komutlar #VibeCoding",
+    "baslik": "Claude Code Nedir, Neden Herkes Bahsediyor?",
+    "caption": "Claude Code terminalde çalışan bir AI kodlama asistanı, dosya okuyup proje genelinde değişiklik yapabiliyor. #ClaudeCode #VibeCoding #YapayZeka #Yazılım #AI",
     "postSlides": [
       "../images/posts/gun-5-post-1.png",
       "../images/posts/gun-5-post-2.png",
