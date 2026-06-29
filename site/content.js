@@ -3,13 +3,17 @@ const CONTENT = [
     "gun": 1,
     "kategori": "Claude Code",
     "baslik": "Claude Code İçin Bilmen Gereken 7 Komut",
-    "caption": "/init, /clear ve Shift+Tab plan modu — Claude Code'da işini kolaylaştıran 3 temel komut bunlar. Çoğu kullanıcı bunları hiç bilmeden Claude Code kullanıyor ve potansiyelin çok azını kullanıyor. Bu seride her gün Claude Code, vibe coding ve yapay zeka üzerine yeni bir bilgi paylaşıyorum, kaçırmamak için takip et.",
+    "caption": "/init, /clear, /compact, /review, /agents, /permissions ve Shift+Tab plan modu — Claude Code'da işini kolaylaştıran 7 temel komut bunlar. Çoğu kullanıcı bunları hiç bilmeden Claude Code kullanıyor ve potansiyelin çok azını kullanıyor. Bu seride her gün Claude Code, vibe coding ve yapay zeka üzerine yeni bir bilgi paylaşıyorum, kaçırmamak için takip et.",
     "postSlides": [
       "../images/posts/gun-1-post-1.png",
       "../images/posts/gun-1-post-2.png",
       "../images/posts/gun-1-post-3.png",
       "../images/posts/gun-1-post-4.png",
-      "../images/posts/gun-1-post-5.png"
+      "../images/posts/gun-1-post-5.png",
+      "../images/posts/gun-1-post-6.png",
+      "../images/posts/gun-1-post-7.png",
+      "../images/posts/gun-1-post-8.png",
+      "../images/posts/gun-1-post-9.png"
     ],
     "storyImage": "../images/stories/gun-1-story.png"
   },
