@@ -35,7 +35,7 @@ const CONTENT = [
     "gun": 3,
     "kategori": "Claude Code",
     "baslik": "Claude Code ile 1 Haftada Bitirdiğim Proje",
-    "caption": "12 ekranlı admin panelini Claude Code ile 6 günde bitirdim, normalde bu iş 1 ay sürerdi. Ekran ekran brief verip component'leri yazdırdım, ben mimari kararları ve testleri üstlendim. Bu seride her gün gerçek proje deneyimlerimi ve somut sonuçları paylaşıyorum, devamını kaçırmamak için takip et.",
+    "caption": "ChatGPT Pro, YouTube Premium gibi dijital aboneliklerimi tek panelden takip edebileceğim bir ekranı önce Claude'a tarif edip tasarımını çıkardım, sonra Claude Code'a akışı anlatıp kodun tamamını yazdırdım, ben mimari kararları verdim. Toplam süre 1 hafta ama gerçek çalışma sadece 3-4 saat sürdü — eskiden bu iş bir ay yoğun çalışma gerektirirdi. Bu seride her gün gerçek proje deneyimlerimi ve somut sonuçları paylaşıyorum, devamını kaçırmamak için takip et.",
     "postSlides": [
       "../images/posts/gun-3-post-1.png",
       "../images/posts/gun-3-post-2.png",
